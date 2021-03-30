@@ -69,3 +69,17 @@ Would you like to do another transaction:
 --------------Good Day------------------
 ------------Have A Nice Day-------------
 
+4 ] exit 
+
+****Please choose one of the options below****
+
+[ 1 ]  Check Balance
+[ 2 ]  Deposit
+[ 3 ]  Withdraw                                                       
+[ 4 ]  Exit
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                            
+Your Selection: 4
+--------------Good Day------------------
+------------Have A Nice Day-------------
+
